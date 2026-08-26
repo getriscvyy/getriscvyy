@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi i'm getriscvyy.
 
-<!--
-**getriscvyy/getriscvyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
+obsessed with: hardware, electronics, thinkpads (trackpoint mmmm), math (to larp), low-level hardware (hence the handle), music (classical musician), linux (i use arch btw), mechanical pencils, planes (favorite is 757), cars, etc.
+formerly obsessed with: fire alarms/smoke detectors, cooking, i forgot the rest.
 
-Here are some ideas to get you started:
+## handle origin
+getriscvyy is a terrible pun on my favorite cpu isa, risc-v (pronounced risk-five). it's like 'get risky' but instead it's substitued with risc-v.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+there's actually two ways you can read my handle; one intended and one unintended way (but still valid):
+`get + riscv + yy` since the 'v' from 'risc-v' looks like a 'y'
+`get + risc + v + yy` where the 'v' is pronounced 'vee' and the 'yy' means yank line from vim
+
